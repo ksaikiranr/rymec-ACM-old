@@ -1,2 +1,2 @@
-# rymec-ACM-old
-old stable version of rymec acm offical website
+# Rymec-ACM-old
+old stable version of RYMEC ACM offical website
